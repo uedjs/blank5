@@ -12,10 +12,10 @@
     "html-minifier": "^3.5.5"
   },
   "devDependencies": {
-    "coveralls": "^2.13.3",
+    "coveralls": "^3.0.0",
     "istanbul-harmony": "^0.3.16",
     "koa": "^2.3.0",
-    "mocha": "^3.5.3",
+    "mocha": "^4.0.1",
     "supertest": "^3.0.0"
   },
   "scripts": {
