@@ -19,8 +19,8 @@
     "supertest": "^3.0.0"
   },
   "scripts": {
-    "test": "mocha --reporter spec",
-    "test-cov": "node ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha",
-    "test-travis": "node ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly --"
+    "test": "mocha --reporter spec --exit",
+    "test-cov": "node ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --exit",
+    "test-travis": "node ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --exit"
   }
 }
