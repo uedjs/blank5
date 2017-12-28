@@ -1,5 +1,7 @@
 # Koa HTML Minifier 2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuweiyou/koa-html-minifier2.svg)](https://greenkeeper.io/)
+
 [![License MIT](https://img.shields.io/npm/l/koa-html-minifier2.svg)](https://github.com/zhuweiyou/koa-html-minifier2/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/zhuweiyou/koa-html-minifier2.svg?branch=master)](https://travis-ci.org/zhuweiyou/koa-html-minifier2)
 [![Coverage Status](https://coveralls.io/repos/github/zhuweiyou/koa-html-minifier2/badge.svg?branch=master)](https://coveralls.io/github/zhuweiyou/koa-html-minifier2?branch=master)
