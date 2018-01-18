@@ -15,7 +15,7 @@
     "coveralls": "^3.0.0",
     "istanbul-harmony": "^0.3.16",
     "koa": "^2.3.0",
-    "mocha": "^4.0.1",
+    "mocha": "^5.0.0",
     "supertest": "^3.0.0"
   },
   "scripts": {
